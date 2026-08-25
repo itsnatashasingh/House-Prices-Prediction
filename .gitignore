@@ -1,0 +1,70 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+# IDE / Editor Files
+# ==============================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Operating System Files
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Environment & Secrets
+# ==============================
+
+.env
+.env.*
+*.pem
+
+# ==============================
+# Python Packaging
+# ==============================
+
+*.egg-info/
+dist/
+build/
+
+# ==============================
+# Temporary / Generated Files
+# ==============================
+
+*.tmp
+*.temp
+*.log
+
+# ==============================
+# Machine Learning Outputs
+# ==============================
+
+submission.csv
+*.pkl
+*.pickle
+*.joblib
